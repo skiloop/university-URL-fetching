@@ -1,0 +1,21 @@
+# object files
+*.class
+# backup file
+*~
+
+# txt in root directory
+*.txt
+*.bk
+*.map
+*.map2
+*.map3
+*.out
+*.log
+*.list
+*.txt3
+
+# other
+build
+dist
+# html files
+*.html
